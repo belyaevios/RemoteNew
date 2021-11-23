@@ -13,6 +13,8 @@
 		0BD768DB274D0DC9007FC1C8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD768C6274D0DC7007FC1C8 /* ContentView.swift */; };
 		0BD768DC274D0DC9007FC1C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BD768C7274D0DC9007FC1C8 /* Assets.xcassets */; };
 		0BD768DD274D0DC9007FC1C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BD768C7274D0DC9007FC1C8 /* Assets.xcassets */; };
+		0BD768E7274D1621007FC1C8 /* COde.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD768E6274D1621007FC1C8 /* COde.swift */; };
+		0BD768E8274D1621007FC1C8 /* COde.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD768E6274D1621007FC1C8 /* COde.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,7 @@
 		0BD768D4274D0DC9007FC1C8 /* `vvv.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "`vvv.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BD768D6274D0DC9007FC1C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0BD768D7274D0DC9007FC1C8 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		0BD768E6274D1621007FC1C8 /* COde.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = COde.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				0BD768C5274D0DC7007FC1C8 /* _vvvApp.swift */,
+				0BD768E6274D1621007FC1C8 /* COde.swift */,
 				0BD768C6274D0DC7007FC1C8 /* ContentView.swift */,
 				0BD768C7274D0DC9007FC1C8 /* Assets.xcassets */,
 			);
@@ -189,6 +193,7 @@
 			files = (
 				0BD768DA274D0DC9007FC1C8 /* ContentView.swift in Sources */,
 				0BD768D8274D0DC9007FC1C8 /* _vvvApp.swift in Sources */,
+				0BD768E7274D1621007FC1C8 /* COde.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,6 +203,7 @@
 			files = (
 				0BD768DB274D0DC9007FC1C8 /* ContentView.swift in Sources */,
 				0BD768D9274D0DC9007FC1C8 /* _vvvApp.swift in Sources */,
+				0BD768E8274D1621007FC1C8 /* COde.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
